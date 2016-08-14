@@ -1,4 +1,3 @@
 # ARPM2016
-ARPM 2016 Python Conference - Interactive Visualizations
 
-https://www.arpm.co/pythonconference/
+<a href="https://www.arpm.co/pythonconference/">ARPM 2016 Python Conference - Interactive Visualizations</a>
